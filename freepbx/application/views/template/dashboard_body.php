@@ -58,7 +58,7 @@
                                  <div class="col-sm-6 col-md-3">
                                     <div class="panel panel-dark panel-colorful">
                                         <div class="panel-body text-center">
-                                            <p class="text-uppercase mar-btm text-md">SAMPLE</p>
+                                            <p class="text-uppercase mar-btm text-md">TOTAL CALLS</p>
                                             <i class="fa fa-money fa-5x"></i>
                                             <hr>
                                             <p class="h1 text-thin">
